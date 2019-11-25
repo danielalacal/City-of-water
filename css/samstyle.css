@@ -5,8 +5,7 @@ p{
 .samhead {
   color: midnightblue;font-size:40px; text-align: center; font-family:"TrimPoster-Lean";
   padding: 15px;
-}
-/*
+    /*
 a {
   color:black;
   text-decoration: underline;
@@ -17,6 +16,7 @@ a:hover {
   text-transform: uppercase;
   font-size: 25px;
 }*/
+}
 
 .header {
   width: 100%;
@@ -38,7 +38,10 @@ a:hover {
 
 .samhead h1 {
   font-family: "TrimPoster-Lean",sans-serif;
-  font-size: 80px; letter-spacing: .5px;}
+  font-size: 80px; letter-spacing: .5px;
+
+}
+
 
 .samhead h2{
   font-family:"Sentinel-Medium", sans-serif;
@@ -46,7 +49,6 @@ a:hover {
   font-size: 35px;
   position: relative;
   top: -20px;
-}
 }
 
 .notyet {
@@ -64,7 +66,9 @@ a:hover {
 
 }
 
-.byline {text-align: center;color:black;font-family: "sentinel", sans-serif; font-size: 20px; margin-top: "-20px"}
+.byline {text-align: center;color:black;font-family: "sentinel", sans-serif; font-size: 20px; margin-top: "-20px"
+
+}
 
 .figcaption {
   padding: 10px;
